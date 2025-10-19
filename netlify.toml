@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/jg da memoria/index.html"
+  status = 200
